@@ -1,0 +1,21 @@
+# Variáveis de ambiente — nunca commitar
+.env
+.env.*
+
+# Ambiente virtual Python
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Banco de dados local
+data/validador.db
+
+# VS Code / Cursor
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
