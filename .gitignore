@@ -1,6 +1,7 @@
 # Variáveis de ambiente — nunca commitar
 .env
 .env.*
+!.env.example
 
 # Ambiente virtual Python
 venv/
