@@ -20,7 +20,7 @@ TEMPERATURE = 0.2
 MAX_TOKENS  = 4096
 
 # ─── Aplicação ────────────────────────────────────────────────
-APP_TITLE   = "Validador de Ideias"
+APP_TITLE   = "Dokma"
 APP_VERSION = "0.1.0"
 LANGUAGE    = "pt-BR"
 
