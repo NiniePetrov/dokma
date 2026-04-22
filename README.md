@@ -94,8 +94,8 @@ graph TD
 
 ```bash
 # Clone the repository
-git clone https://github.com/NiniePetrov/validador-ideias.git
-cd validador-ideias
+git clone https://github.com/NiniePetrov/dokma.git
+cd dokma
 
 # Create and activate virtual environment
 python -m venv venv
