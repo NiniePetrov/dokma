@@ -150,5 +150,3 @@ Prompt Engineer | LLM Behavior Analysis | Applied Cognitive Biases in AI
 [![Substack](https://img.shields.io/badge/Substack-orange)](https://substack.com/@stranight)
 
 ---
-
-*Dokma is under active development. The name is provisional.*
